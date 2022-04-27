@@ -35,6 +35,8 @@ def currencydraw(input_buffer):
             linechars = [
                 ['+', '+'],
                 ['+', '+'],
+                ['+', '+'],
+                ['+', '+'],
                 ['+', '+']
             ]
 
